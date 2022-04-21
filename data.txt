@@ -1,1 +1,0 @@
-{"Nama_Wilayah":"Jawa Tengah","Jumlah_Positif":"626169","Jumlah_Dirawat":"12308","Jumlah_Sembuh":"580814","Jumlah_Meninggal":"32923","Nama_Operator":"YANA YULIA DEWI","NIM_Mahasiswa":"191011402035","IP_Address":"192.168.0.1"}
